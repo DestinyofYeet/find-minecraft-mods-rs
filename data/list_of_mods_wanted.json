@@ -1,0 +1,36 @@
+{
+  "mods": [
+    {
+      "name": "Mekanism",
+      "id": "Ce6I4WUE"
+    },
+    {
+      "name": "LazyAE2",
+      "id": "7mmL0PW9"
+    },
+    {
+      "name": "baubley heart canisters",
+      "id": "fPdy2fCM"
+    },
+    {
+      "name": "Applied Energistics",
+      "id": "XxWD5pD3"
+    },
+    {
+      "name": "Applied Energistics Wireless terminals",
+      "id": "pNabrMMw"
+    },
+    {
+      "name": "Chisel",
+      "id": "4KWv7wbN"
+    },
+    {
+      "name": "Bloodmagic",
+      "id": "PbNc6qBY"
+    },
+    {
+      "name": "Botania",
+      "id": "pfjLUfGv"
+    }
+  ]
+}
