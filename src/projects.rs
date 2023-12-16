@@ -72,7 +72,7 @@ pub async fn find_most_compatible_mods(projects: &Vec<Project>) -> Vec<Result> {
     println!("Reorder done!");
 
     for result in results_vec.iter() {
-        println!("Version: {}, Loader: {}, Count: {}, Mods: {:?}", result.version, result.loader, result.count, result.mods);
+        println!("Version: {}, Loader: {}, Count: {}/{}, Mods: {:?}", result.version, result.loader, result.count, projects.len(), result.mods);
     }
 
     return results_vec;
